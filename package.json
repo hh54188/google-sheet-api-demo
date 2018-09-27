@@ -1,0 +1,7 @@
+{
+  "name": "google-sheet-api-demo",
+  "dependencies": {
+    "googleapis": "^34.0.0",
+    "hapi": "^17.6.0"
+  }
+}
